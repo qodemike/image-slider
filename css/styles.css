@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: black;
+    overflow: hidden;
+
+}
+
+/* track */
+.carousel{
+    display: flex;
+}
+.carousel__image{
+    width:  38rem;
+    height: 60rem;
+    object-fit: cover;
+    margin: 2rem 6rem;
+}
